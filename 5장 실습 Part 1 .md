@@ -1,3 +1,5 @@
+자료구조 및 프로그래밍 5장 실습의 part1을 정리한 것.
+
 # bt.h
 ~~~cpp
 #ifndef BT_H

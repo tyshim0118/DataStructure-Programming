@@ -1,4 +1,4 @@
-## maxheap.h
+# maxheap.h
 ~~~cpp
 #include <algorithm>
 #include <iostream>
@@ -104,7 +104,7 @@ void Maxheap<T>::Pop() {  // Delete max element.
 }
 ~~~
 
-## max.cpp
+# max.cpp
 ~~~cpp
 //C311090 심태용
 #include "maxheap.h"
